@@ -6,10 +6,6 @@ module.exports = {
     { text: 'About', link: '/about/' },
     { text: 'Mission', link: '/mission/' },
     { text: 'Process', link: '/process/' }
-    ],
-    "scripts": {
-      "dev": "vuepress dev:docs",
-      "build": "vuepress build:docs"
-    }
+    ]
   }
 };

@@ -1,11 +1,3 @@
-## Design Scope vuepress site
+# Process
 
-This site uses [vuepress](https://vuepress.vuejs.org/) for publishing.
-
-You need to install it either with `yarn global add vuepress` or `npm install -g vuepress` (use `sudo` if needed).
-
-Then [clone repository](https://github.com/designscope/designscope.github.io), go to folder and run `vuepress dev`. Your site will be at [http://localhost:8080/](http://localhost:8080/).
-
-## Publishing
-
-> Pending, [learn how to deploy to gh-pages](https://vuepress.vuejs.org/guide/deploy.html#github-pages)
+> The design process model (the subway map) with links to relevant posts for each phase. An explanation of this as the organizing principle for the entire project and the expression of the mission through action.
