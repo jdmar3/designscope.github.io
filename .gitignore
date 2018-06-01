@@ -30,4 +30,4 @@ ehthumbs.db
 Thumbs.db
 profile
 dist
-.vuepress/dist
+.vuepress/dist/*
